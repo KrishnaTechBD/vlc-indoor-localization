@@ -56,5 +56,5 @@ vlc-indoor-localization/
 - Localization error heatmap
 - CDF of positioning error
 
-## Professor-Facing One-Liner
+## One-Liner
 This repository demonstrates reproducible research engineering, clearly stated novelty, benchmark-aware evaluation, and PhD-ready technical communication.
