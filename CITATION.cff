@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Indoor Localization using Visible Light Communication and Geometric Inference"
+message: "If you use this repository, please cite it."
+authors:
+  - family-names: "Naidu"
+    given-names: "Krishna Rani"
+version: "0.1.0"
+license: "MIT"
